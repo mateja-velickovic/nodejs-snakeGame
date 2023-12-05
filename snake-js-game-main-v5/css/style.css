@@ -1,0 +1,39 @@
+@import url('https://fonts.cdnfonts.com/css/arcade-classic');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'ArcadeClassic', sans-serif;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background: white;
+}
+
+canvas {
+  border: 29px solid #231f20;
+  border-top: 55px solid #231f20;
+}
+
+#scoretxt {
+  position: fixed;
+  color: white;
+  font-size: 4cqi;
+  top: 197px;
+  left: 290px;
+}
+
+#score {
+  position: fixed;
+  color: white;
+  font-size: 4cqi;
+  left: 900px;
+  top: 197px;
+}
