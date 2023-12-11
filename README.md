@@ -5,16 +5,14 @@
 This is a classic Snake game implemented in Node.js, designed to run on a Ubuntu virtual machine. The game leverages the simplicity and efficiency of Node.js for server-side logic while utilizing web technologies for the frontend.
 
 ## Features
-- Responsive and intuitive controls for seamless gameplay.
-Score tracking to monitor your progress.
-Game over screen with the option to restart.
-
-## Technologies
 <ul>
     <li>Responsive and intuitive controls for seamless gameplay.</li>
     <li>Score tracking to monitor your progress.</li>
     <li>Game over screen with the option to restart.</li>
 </ul>
+
+## Technologies
+
 
 The project was created using:
 
