@@ -24,18 +24,18 @@ The project was created using:
 Node.js installed on your Ubuntu virtual machine. If not, you can download it [here](https://nodejs.org/en).
 
 1. Clone this repository 
-```git clone https://github.com/mateja-velickovic/snake-game.git```
+```git clone https://github.com/mateja-velickovic/nodejs-snakeGame.git```
 
 2. Navigate to the project directory
 ```cd nodejs-snakeGame```
 
-Puis lancer l'application:
+3. Install dependecies
+```npm install```
 
-```bash
-npm run dev
-```
+4. Run the game
+```npm run dev```
 
-Vous pouvez ouvrir votre navigateur préféré à cette adresse <a target="_blank" href="http://localhost:5173/">http://localhost:5173/</a>.
+5. Open your web browser and visit <a target="_blank" href="http://localhost:5173/">http://localhost:5173/</a> to play the Snake game..
 
 ## Aide pour le javascript
 
