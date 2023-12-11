@@ -1,12 +1,20 @@
 # nodejs-snakeGame
 🐍 Famous snake game recreated on an Ubuntu environment
 
-## Description
+## Overview
+This is a classic Snake game implemented in Node.js, designed to run on a Ubuntu virtual machine. The game leverages the simplicity and efficiency of Node.js for server-side logic while utilizing web technologies for the frontend.
 
-The goal is to create the snake game in JavaScript using the <a href="https://developer.mozilla.org/fr/docs/Web/HTML/Element/canvas">html5 canvas</a> tag. <br />
-So a minimum of configuration is required to learn modern ECMAScript syntax in a fun way.
+## Features
+- Responsive and intuitive controls for seamless gameplay.
+Score tracking to monitor your progress.
+Game over screen with the option to restart.
 
 ## Technologies
+<ul>
+    <li>Responsive and intuitive controls for seamless gameplay.</li>
+    <li>Score tracking to monitor your progress.</li>
+    <li>Game over screen with the option to restart.</li>
+</ul>
 
 The project was created using:
 
