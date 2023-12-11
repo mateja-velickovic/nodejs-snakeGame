@@ -21,7 +21,7 @@ The project was created using:
 
 ## Setting up the environment
 ### Prerequisities
-Node.js installed on your Ubuntu virtual machine. If not, you can download it here.
+Node.js installed on your Ubuntu virtual machine. If not, you can download it [here](https://nodejs.org/en).
 
 1. Clone this repository 
 ```git clone https://github.com/mateja-velickovic/snake-game.git```
