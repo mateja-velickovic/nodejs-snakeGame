@@ -1,6 +1,6 @@
-# snake-js-game
+# nodejs-snakeGame
 
-Le jeu du serpent en js.
+🐍 Famous snake game recreated on an Ubuntu environment
 
 ## Description
 
