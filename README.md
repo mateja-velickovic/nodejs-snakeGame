@@ -1,5 +1,4 @@
 # nodejs-snakeGame
-
 🐍 Famous snake game recreated on an Ubuntu environment
 
 ## Description
