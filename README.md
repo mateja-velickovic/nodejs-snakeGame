@@ -2,7 +2,7 @@
   src="resources/gameSnake.png"
   alt="Snake game"
   title="Optional title"
-  style="display: block; margin: auto; width:500px;">
+  style="  display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 ## Overview
 This is a classic Snake game implemented in Node.js, designed to run on a Ubuntu virtual machine. The game leverages the simplicity and efficiency of Node.js for server-side logic while utilizing web technologies for the frontend.
