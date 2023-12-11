@@ -12,7 +12,6 @@ This is a classic Snake game implemented in Node.js, designed to run on a Ubuntu
 </ul>
 
 ## Technologies
-
 The project was created using:
 
 <ul>
@@ -24,11 +23,11 @@ The project was created using:
 ### Prerequisities
 Node.js installed on your Ubuntu virtual machine. If not, you can download it here.
 
+1. Clone this repository 
+```git clone https://github.com/mateja-velickovic/snake-game.git```
 
-```bash
-cd snake-js-game
-npm install   
-```
+2. Navigate to the project directory
+```cd nodejs-snakeGame```
 
 Puis lancer l'application:
 
