@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <img
-  src="resources/gameSnake.png"
+  src="resources/gameSnake.jpg"
   alt="Snake game"
   title="Optional title"
   style="  display: block; width: 50%;">
