@@ -1,3 +1,4 @@
+/*Importation d'une police d'arcade*/
 @import url('https://fonts.cdnfonts.com/css/arcade-classic');
 
 * {
@@ -22,6 +23,7 @@ canvas {
   border-top: 55px solid #231f20;
 }
 
+/* Positionnement des textes présent dans le jeu */
 #scoretxt {
   position: fixed;
   color: white;
@@ -29,11 +31,15 @@ canvas {
   top: 197px;
   left: 290px;
 }
-
 #score {
   position: fixed;
   color: white;
   font-size: 4cqi;
-  left: 900px;
   top: 197px;
+  right: 290px;
+}
+#gameover {
+  position: fixed;
+  color: white;
+  font-size: 4rem;
 }
